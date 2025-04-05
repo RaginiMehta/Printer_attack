@@ -1,5 +1,4 @@
-# Paper To be Implemented : 
-Texture Based Attacks on Intrinsic Signature Based Printer Identification
+# Paper To be Implemented : Texture Based Attacks on Intrinsic Signature Based Printer Identification
 
 ### Link to paper(need to signed in with school) : https://drive.google.com/drive/folders/1dCZdPDzNXtPb83_TDM2T2Khl4fVmR8cC
 
@@ -17,7 +16,7 @@ https://docs.google.com/document/d/1NaS4cRLZlODuyYB9pB7OZBjWaRNupM2Noc6ykY5M2KU/
 
 1. Get PDFs -> Images
 2. Get individal Charecters -> 'e'  - Done
-3. Extract Features 
+3. Extract Features :
 	a. Variance/Entropy
 	b. GLCM features
 	c. DFT Features
