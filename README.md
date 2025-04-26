@@ -28,15 +28,11 @@ https://docs.google.com/document/d/1cTGTo6ci8M2kGMI3o8cecRoUmg6FhsRfl0oEGGIPEt0/
 
 The directory structure for this project is as follows:
 
-'''bash
+```
 .
 ├── Attacks.ipynb
 ├── Dataset_OG
-│   ├── banded_image_10_0.01.jpg
-│   ├── banded_image_10_0.04.jpg
-│   ├── banded_image_10_0.1.jpg
-│   ├── banded_image_5_0.1.jpg
-│   └── BASE_OG.jpg
+│   └── <files>
 ├── dist_csvs
 │   ├── class_label.csv
 │   ├── 10_column_i.csv
@@ -64,15 +60,11 @@ The directory structure for this project is as follows:
 ├── test_images
 │   └── dummy test images
 ├── Testing_Dataset
-│   ├── banded_image_10_0.01_7
-│   ├── banded_image_10_0.04_7
-│   ├── banded_image_10_0.1_7
-│   ├── banded_image_5_0.1_7
-│   └── BASE_OG_7
+│   └── <files>
 ├── Testing_images
 ├── train_features.ipynb
 └── Training.ipynb
-'''
+```
 
 26 directories, 344 files
 
