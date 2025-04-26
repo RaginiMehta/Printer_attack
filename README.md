@@ -28,6 +28,7 @@ https://docs.google.com/document/d/1cTGTo6ci8M2kGMI3o8cecRoUmg6FhsRfl0oEGGIPEt0/
 
 The directory structure for this project is as follows:
 
+'''bash
 .
 ├── Attacks.ipynb
 ├── Dataset_OG
@@ -71,6 +72,7 @@ The directory structure for this project is as follows:
 ├── Testing_images
 ├── train_features.ipynb
 └── Training.ipynb
+'''
 
 26 directories, 344 files
 
