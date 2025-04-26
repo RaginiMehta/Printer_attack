@@ -28,5 +28,49 @@ https://docs.google.com/document/d/1cTGTo6ci8M2kGMI3o8cecRoUmg6FhsRfl0oEGGIPEt0/
 
 The directory structure for this project is as follows:
 
-. ├── Attacks.ipynb ├── Dataset_OG │ ├── banded_image_10_0.01.jpg │ ├── banded_image_10_0.04.jpg │ ├── banded_image_10_0.1.jpg │ ├── banded_image_5_0.1.jpg │ └── BASE_OG.jpg ├── dist_csvs │ ├── class_label.csv │ ├── 10_X_column_i.csv ├── feature_extr.ipynb ├── feature_plot.ipynb ├── file_structure.txt ├── indiv_scripts │ ├── DFT.ipynb │ ├── get_e.ipynb │ └── GLCM.ipynb ├── plots │ ├── dft_lda_plot.png │ └── lda_grid_plot.png ├── Printer_Mimic.ipynb ├── README.md ├── Ref_PDFs │ ├── GLCM.pdf │ └── Texture_based_attacks_on_intrinsic_signature_based_printer_identification.pdf ├── saved_e │ └── 5_printers │ ├── 50_extracted_e's │ └── ef_50.pkl_files ├── SVM_trainedModels │ ├── svm_col10.joblib │ ├── svm_col1.joblib │ ├── svm_col2.joblib │ ├── svm_col3.joblib │ ├── svm_col4.joblib │ ├── svm_col5.joblib │ ├── svm_col6.joblib │ ├── svm_col7.joblib │ ├── svm_col8.joblib │ └── svm_col9.joblib ├── test_images │ ├── marked_es.png │ ├── output_with_boxes.png │ ├── test_0.png │ ├── test_1.jpeg │ ├── test_2.png │ ├── test_3.png │ ├── test4.jpg │ ├── test5.png │ └── test_6.jpg ├── Testing_Dataset │ ├── banded_image_10_0.01_7 │ ├── banded_image_10_0.04_7 │ ├── banded_image_10_0.1_7 │ ├── banded_image_5_0.1_7 │ └── BASE_OG_7 ├── Testing_images │ ├── attack_fixed_freq_binarized.jpg │ ├── attack_fixed_freq.jpg │ ├── attack_freq_hopping_binarized.jpg │ ├── attack_freq_hopping.jpg │ ├── attack_gaussian_noise.jpg │ └── TESTING_CV.jpg ├── train_features.ipynb └── Training.ipynb
+.
+├── Attacks.ipynb
+├── Dataset_OG
+│   ├── banded_image_10_0.01.jpg
+│   ├── banded_image_10_0.04.jpg
+│   ├── banded_image_10_0.1.jpg
+│   ├── banded_image_5_0.1.jpg
+│   └── BASE_OG.jpg
+├── dist_csvs
+│   ├── class_label.csv
+│   ├── 10_column_i.csv
+├── feature_extr.ipynb
+├── feature_plot.ipynb
+├── file_structure.txt
+├── indiv scripts
+│   ├── DFT.ipynb
+│   ├── get_e.ipynb
+│   └── GLCM.ipynb
+├── plots
+│   ├── dft_lda_plot.png
+│   └── lda_grid_plot.png
+├── Printer_Mimic.ipynb
+├── README.md
+├── Ref PDFs
+│   ├── GLCM.pdf
+│   └── Texture_based_attacks_on_intrinsic_signature_based_printer_identification_(1).pdf
+├── saved_e
+│   └── 5 printers
+│       ├── 50 extracted e's
+│       └── ef - 50 .pkl files, extracted features
+├── SVM_trainedModels
+│   └── 10 svm_models
+├── test_images
+│   └── dummy test images
+├── Testing_Dataset
+│   ├── banded_image_10_0.01_7
+│   ├── banded_image_10_0.04_7
+│   ├── banded_image_10_0.1_7
+│   ├── banded_image_5_0.1_7
+│   └── BASE_OG_7
+├── Testing_images
+├── train_features.ipynb
+└── Training.ipynb
+
 26 directories, 344 files
+
