@@ -32,13 +32,14 @@ The directory structure for this project is as follows:
 .
 ├── Attacks.ipynb
 ├── Dataset_OG
-│   └── <files>
+│   ├── banded_image_10_0.01.jpg
+│   ├── banded_image_10_0.04.jpg
+│   ├── banded_image_10_0.1.jpg
+│   ├── banded_image_5_0.1.jpg
+│   └── BASE_OG.jpg
 ├── dist_csvs
 │   ├── class_label.csv
-│   ├── 10_column_i.csv
-├── dist_attacked_csvs
-│   ├── class_label.csv
-│   ├── 5_attaked.csv
+│   ├── 10 X column_i.csv
 ├── feature_extr.ipynb
 ├── feature_plot.ipynb
 ├── file_structure.txt
@@ -48,12 +49,13 @@ The directory structure for this project is as follows:
 │   └── GLCM.ipynb
 ├── plots
 │   ├── dft_lda_plot.png
+│   ├── lda_grid_plot_attacked.png
 │   └── lda_grid_plot.png
 ├── Printer_Mimic.ipynb
 ├── README.md
 ├── Ref PDFs
 │   ├── GLCM.pdf
-│   └── Texture_based_attacks_on_intrinsic_signature_based_printer_identification_(1).pdf
+│   └── Texture based attacks on intrinsic signature based printer identification (1).pdf
 ├── saved_e
 │   └── 5 printers
 │       ├── 50 extracted e's
@@ -63,13 +65,15 @@ The directory structure for this project is as follows:
 ├── test_images
 │   └── dummy test images
 ├── Testing_Dataset
-│   └── <files>
-├── Testing_attacked
-│   └── <attacked files dir>
+│   ├── banded_image_10_0.01 - 7
+│   ├── banded_image_10_0.04 - 7
+│   ├── banded_image_10_0.1 - 7
+│   ├── banded_image_5_0.1 - 7
+│   └── BASE_OG - 7
 ├── Testing_images
-├── make_dist_csvs.ipynb
+├── train_features.ipynb
 └── Training.ipynb
-```
 
-26 directories, 344 files
+84 directories, 2284 files
+```
 
