@@ -36,6 +36,9 @@ The directory structure for this project is as follows:
 ├── dist_csvs
 │   ├── class_label.csv
 │   ├── 10_column_i.csv
+├── dist_attacked_csvs
+│   ├── class_label.csv
+│   ├── 5_attaked.csv
 ├── feature_extr.ipynb
 ├── feature_plot.ipynb
 ├── file_structure.txt
@@ -61,8 +64,10 @@ The directory structure for this project is as follows:
 │   └── dummy test images
 ├── Testing_Dataset
 │   └── <files>
+├── Testing_attacked
+│   └── <attacked files dir>
 ├── Testing_images
-├── train_features.ipynb
+├── make_dist_csvs.ipynb
 └── Training.ipynb
 ```
 
