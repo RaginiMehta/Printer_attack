@@ -8,9 +8,13 @@ signature.
 
 ### Keywords: document security, secure printing, printer identification, banding
 
-## Ongoing Report : 
+## Final Report : 
 
 https://docs.google.com/document/d/1cTGTo6ci8M2kGMI3o8cecRoUmg6FhsRfl0oEGGIPEt0/edit?usp=sharing
+
+## Presentation Video :
+
+https://drive.google.com/file/d/15qCKg-u4grnvmN7FIYuG_domBqx9q0z2/view?usp=drive_link
 
 ## Steps : 
 
